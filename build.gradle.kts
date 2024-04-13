@@ -3,7 +3,7 @@ import de.undercouch.gradle.tasks.download.Download
 plugins {
     `java-library`
 
-    id("fabric-loom") version "1.5.+"
+    id("fabric-loom") version "1.6.+"
 
     id("me.modmuss50.mod-publish-plugin") version "0.5.+"
     `maven-publish`
